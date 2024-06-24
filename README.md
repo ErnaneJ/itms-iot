@@ -28,7 +28,7 @@ Now, we need to configure the Adafruit broker. After accessing the website and c
 
 ## Practical Tests
 The development of the solution followed a structured methodology, beginning with the requirements gathering, which included identifying the needs for thermal monitoring inside automotive vehicle cabins, specifying the necessity to measure and visualize temperature and humidity in real-time, as well as storing this data in the cloud for later analysis. Following this, tests were conducted under different conditions to ensure the system's robustness and to demonstrate the system's implementation in the real-use environment. Below are videos of the prototype implementation.
-- [Testing Wi-Fi Connectivity](https://youtube.com/shorts/GmuC_Umvizc)
+- [Testing Wi-Fi Connectivity](https://youtube.com/shorts/kTW8ZCR5zig)
 - [Testing Prototype in a Vehicle](https://youtu.be/GmuC_Umvizc)
 
 ## Results and Discussions
